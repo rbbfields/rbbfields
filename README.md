@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rbbfields
-- 👀 I’m interested in transitioning from my current job as an Orchestra Librarian to a career in Web Development. 
+- 👀 I’m interested in transitioning from my current job as an Orchestra Librarian to a career in Web Development. My hobbies include singing, genealogy (traditional and genetic), Cornish studies (language, culture, history), painting, and generally learning new things.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Python, SQL.
 - 💞️ I’m looking to collaborate on group projects for practice.
 - 📫 You can email me at rbbfields.dev@gmail.com.
